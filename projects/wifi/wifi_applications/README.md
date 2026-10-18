@@ -37,6 +37,7 @@ Example row (copy/paste and edit):
 
 | Project (GitHub) | Description | Author/Contributor |
 |:--|:--|:--|
+| [siliconflow-ci](https://github.com/m0hiith/siliconflow-ci) | Build, test and release-gating service for embedded firmware: GitHub Actions builds C11 firmware for Cortex-M4 and SiWx917 (BRD4338A) targets, and a FastAPI backend verifies signed run reports and artifact hashes and checks coverage, cppcheck and flash-size gates before a binary is release-eligible. Includes optional hardware-in-the-loop flashing of a SiWx917 board. | [m0hiith](https://github.com/m0hiith) |
 
 ## Documentation ##
 
